@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "project",
-=======
   "name": "client",
->>>>>>> 54df03c3b7ea9e50fa9363cce064cd39ce1cca5e
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,15 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-=======
     "axios": "^1.6.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
->>>>>>> 54df03c3b7ea9e50fa9363cce064cd39ce1cca5e
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
