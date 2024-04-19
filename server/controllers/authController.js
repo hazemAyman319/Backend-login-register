@@ -3,6 +3,4 @@ const test=(req, res)=>{
     res.json('test is working')
 }
 // exports the test function after sending the response
-module.exports ={
-    test
-}
+module.exports ={test}
